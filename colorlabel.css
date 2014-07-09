@@ -1,0 +1,7 @@
+/* checkbox,radio チェック状態でラベルの色変え  */
+
+/* ラベルの外観 */
+label { margin:1px; padding:1px 5px; }
+
+/* チェックが入っているときのラベルの色 */
+.colorlabel_active { background-color:#357ebd; color:white; border-radius:3px; }
