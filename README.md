@@ -9,8 +9,8 @@ jquery-colorlabel
 jQueryと、このプラグインのjsと、このプラグインのCSSを読み込むコードを書きます。
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script type="text/javascript" src="colorlabel.js"></script>
-    <link href="colorlabel.css" rel="stylesheet">
+    <script type="text/javascript" src="jquery-colorlabel/colorlabel.js"></script>
+    <link href="jquery-colorlabel/colorlabel.css" rel="stylesheet">
 
 
 
@@ -25,9 +25,6 @@ inputタグをlabelで囲むように書きます。ラジオボタンにも対�
 ----
 colorlabel.cssをいじると、チェック状態のlabelの見た目をカスタマイズできます。
 
-    /* ラベルの外観 */
-    label { margin:1px; padding:1px 5px; }
-    
     /* チェックが入っているときのラベルの色 */
     .colorlabel_active { background-color:#357ebd; color:white; border-radius:3px; }
 
