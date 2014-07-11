@@ -43,3 +43,8 @@ colorlabel.cssをいじると、チェック状態のlabelの見た目をカス�
 ----
 http://hodade.adam.ne.jp/jquery-colorlabel/sample/sample.html
 
+
+ライセンス
+----
+MIT
+
