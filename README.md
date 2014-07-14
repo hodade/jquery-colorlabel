@@ -16,9 +16,15 @@ jQueryと、このプラグインのjsと、このプラグインのCSSを読み
 
 HTMLのコードの書き方
 -----
-inputタグをlabelで囲むように書きます。ラジオボタンにも対応しています。
+inputタグをlabelで囲むように書きます。チェックがついた項目は色が変わります。
 
-    <label><input type="checkbox" name="param" value="1"/></label>
+    <label><input type="checkbox" name="seasoning" value="1"/>しお</label>
+    <label><input type="checkbox" name="seasoning" value="2"/>しょうゆ</label>
+
+ラジオボタンにも対応しています。同じnameの中では1つのみ色が変わります。
+
+    <label><input type="radio" name="bivalve" value="1"/>ほたて</label>
+    <label><input type="radio" name="bivalve" value="2"/>しじみ</label>
 
 
 見た目のカスタマイズ
@@ -47,4 +53,5 @@ http://hodade.adam.ne.jp/jquery-colorlabel/sample/sample.html
 ライセンス
 ----
 MIT
+ゆるいライセンスです。
 
