@@ -1,0 +1,17 @@
+{
+  "name": "jquery-colorlabel",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "colorlabel.js",
+  "keyword": [
+    "jquery",
+    "color",
+    "label"
+  ],
+  "dependencies": {
+    "jquery": ">=1.11"
+  },
+  "devDependencies": {
+    "jquery": ">=1.11"
+  }
+}
