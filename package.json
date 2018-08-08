@@ -1,0 +1,19 @@
+{
+  "name": "jquery-colorlabel",
+  "version": "1.0.0",
+  "description": "jquery-colorlabel\r =================\r チェックボックスまたはラジオボタンがチェック状態のときにラベルの色を変えます。\r チェックを外すと色は消えます。",
+  "main": "colorlabel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hodade/jquery-colorlabel.git"
+  },
+  "author": "hodade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hodade/jquery-colorlabel/issues"
+  },
+  "homepage": "https://github.com/hodade/jquery-colorlabel#readme"
+}
